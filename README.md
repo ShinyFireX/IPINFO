@@ -1,11 +1,12 @@
-IP Info Tool 🌐
+##### IP Info Tool 🌐
 
 The IP Info Tool is designed to help you quickly retrieve detailed information about any given IP address. This is my first program, and I'm excited to share it with you! 🚀
 
-Available Versions 🌍
+### Available Versions 🌍
 English Version
 Deutsche Version
-How to Use 🔧
+
+### How to Use 🔧
 
 Run the Script: Execute the script in your terminal or command prompt.
 ```bash
@@ -25,6 +26,6 @@ City
 Country
 Repeat: After viewing the information, you can choose to look up another IP address or exit the tool. Just follow the on-screen instructions! 🔄
 
-Disclaimer ⚠️:
+### Disclaimer ⚠️:
 This tool is provided "as-is" without any guarantees or warranties. Use it at your own risk. The developer is not responsible for any damages or issues that may arise from using this tool. Always ensure you have permission to query the IP addresses you are investigating.
 
