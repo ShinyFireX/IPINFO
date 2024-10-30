@@ -8,9 +8,11 @@ Deutsche Version
 How to Use 🔧
 
 Run the Script: Execute the script in your terminal or command prompt.
-bash
-Code kopieren
-python ip_info_tool.py
+
+python Germanvs.py
+or
+python Englishvs.py
+
 Input the IP Address: When prompted, enter the IP address you want to look up. You can enter either an IPv4 or an IPv6 address.
 View the Results: The tool will display the following information in a neat table format:
 IP Address
