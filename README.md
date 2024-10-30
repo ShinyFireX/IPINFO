@@ -1,7 +1,10 @@
 IP Info Tool 🌐
 
-The IP Info Tool allows you to quickly retrieve detailed information about any given IP address. Whether you want to check the hostname, region, city, or country of an IP, this tool provides an easy-to-use interface for gathering such information! 🚀
+The IP Info Tool is designed to help you quickly retrieve detailed information about any given IP address. This is my first program, and I'm excited to share it with you! 🚀
 
+Available Versions 🌍
+English Version
+Deutsche Version
 How to Use 🔧
 
 Run the Script: Execute the script in your terminal or command prompt.
